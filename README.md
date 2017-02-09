@@ -16,7 +16,7 @@ This website follows [this tutorial](https://www.youtube.com/watch?v=MpFO4Zr0EPE
 ![new post](https://github.com/hmc-cs-zzhang/rails-instagram/blob/master/screenshots/new-post.png)
 
 #### Show a single post
-![post detail]
+![post detail](https://github.com/hmc-cs-zzhang/rails-instagram/blob/master/screenshots/post-detail.png)
 
 #### List of posts
-![list of posts]
+![list of posts](https://github.com/hmc-cs-zzhang/rails-instagram/blob/master/screenshots/list-posts.png)
