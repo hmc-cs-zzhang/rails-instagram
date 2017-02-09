@@ -7,16 +7,13 @@ This website follows [this tutorial](https://www.youtube.com/watch?v=MpFO4Zr0EPE
 ### Screenshot
 
 #### Register
-![register]
+![register](https://github.com/hmc-cs-zzhang/rails-instagram/blob/master/screenshots/register.png)
 
 #### Login
-![login]
-
-#### Logout
-![logout]
+![login](https://github.com/hmc-cs-zzhang/rails-instagram/blob/master/screenshots/login.png)
 
 #### Adding a new post
-![new post]
+![new post](https://github.com/hmc-cs-zzhang/rails-instagram/blob/master/screenshots/new-post.png)
 
 #### Show a single post
 ![post detail]
